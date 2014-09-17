@@ -23,5 +23,5 @@ Have a look for more information regarding the relevant files.
 
 ### Matlab files
 
-- [exampleGUI.m](http://werthmuller.org/blog/2014/matlab-figure)
+- [exampleGUI.m](http://werthmuller.org/blog/2014/matlab-gui-example)
 
