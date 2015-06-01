@@ -28,4 +28,5 @@ Have a look for more information regarding the relevant files.
 ### Not in blog
 
 - CACH.ipynb: Similar to MXCH.ipynb, but with Canada and Switzerland
+- Travelmap.ipynb: Another basemap example, for travel maps. Might write it up in a blogpost at some time.
 
