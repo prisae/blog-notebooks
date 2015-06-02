@@ -23,7 +23,6 @@ Have a look for more information regarding the relevant files.
 - [Fillgrid.ipynb](http://werthmuller.org/blog/2014/fillgrid)
 - [Checksize.ipynb](http://werthmuller.org/blog/2014/checksize)
 
-
 ### Matlab files
 
 - [exampleGUI.m](http://werthmuller.org/blog/2014/matlab-gui-example)
