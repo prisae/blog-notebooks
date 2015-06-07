@@ -22,6 +22,7 @@ Have a look for more information regarding the relevant files.
 - [MoveSciNot.ipynb](http://werthmuller.org/blog/2014/move-scientific-notation)
 - [Fillgrid.ipynb](http://werthmuller.org/blog/2014/fillgrid)
 - [Checksize.ipynb](http://werthmuller.org/blog/2014/checksize)
+- [Travel.ipynb](http://werthmuller.org/blog/2015/travelmaps) & [travelmaps.ipynb](http://werthmuller.org/blog/2015/travelmaps)
 
 ### Matlab files
 
@@ -30,7 +31,7 @@ Have a look for more information regarding the relevant files.
 ### Not in blog
 
 - CACH.ipynb: Similar to MXCH.ipynb, but with Canada and Switzerland
-- Travelmap.ipynb: Another basemap example, for travel maps. Might write it up in a blogpost at some time.
+- Travel2.ipynb: More travel maps.
 
 
 
