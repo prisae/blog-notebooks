@@ -22,7 +22,7 @@ Have a look for more information regarding the relevant files.
 - [MoveSciNot.ipynb](http://werthmuller.org/blog/2014/move-scientific-notation)
 - [Fillgrid.ipynb](http://werthmuller.org/blog/2014/fillgrid)
 - [Checksize.ipynb](http://werthmuller.org/blog/2014/checksize)
-- [Travel.ipynb](http://werthmuller.org/blog/2015/travelmaps) & [travelmaps.ipynb](http://werthmuller.org/blog/2015/travelmaps)
+- [Travel.ipynb](http://werthmuller.org/blog/2015/travelmap) & [travelmaps.ipynb](http://werthmuller.org/blog/2015/travelmap)
 
 ### Matlab files
 
