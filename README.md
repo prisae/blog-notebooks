@@ -16,7 +16,8 @@ Have a look for more information regarding the relevant files.
 #### For <http://werthmuller.org/blog>
 
 - adashof.py: Contains functions used in some of the notebooks below.
-- SummaryPlots.ipynb : Contains the summary plot for the [blog overview](http://werthmuller.org/blog) page.
+- [RSS.ipynb](http://werthmuller.org/blog): RSS symbol.
+- [SummaryPlots.ipynb](http://werthmuller.org/blog): Contains the summary plot for the blog overview page.
 - [Demo.ipynb](http://werthmuller.org/blog/2014/how-built)
 - [Basemap.ipynb](http://werthmuller.org/blog/2014/basemap)
 - [MXCH.ipynb](http://werthmuller.org/blog/2014/basemap)
@@ -27,17 +28,17 @@ Have a look for more information regarding the relevant files.
 - [Travel.ipynb](http://werthmuller.org/blog/2015/travelmap) & [travelmaps.ipynb](http://werthmuller.org/blog/2015/travelmap)
 
 #### For <http://mexico.werthmuller.org>
-- [MexicoMaps.ipynb](http://mexico/werthmuller.org/besucherreisen/urique)
+- [MexicoMaps.ipynb](http://mexico.werthmuller.org/besucherreisen)
+- [Weather.ipynb](http://mexico.werthmuller.org/landleute/wetter)
+- [MexicoFavicon.ipynb](http://mexico.werthmuller.org)
 
 #### In neither blog
 
 - CACH.ipynb: Similar to MXCH.ipynb, but with Canada and Switzerland
 - Travel2.ipynb: More travel maps.
+- FX.ipynb: MXN currency over time.
 
 ### Matlab files
 
 - [exampleGUI.m](http://werthmuller.org/blog/2014/matlab-gui-example)
-
-
-
 
