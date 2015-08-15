@@ -1,6 +1,6 @@
 # blog-notebooks
 
-IPython Notebooks and other code from [my blog](http://werthmuller.org/blog).
+IPython Notebooks and other code from my blogs.
 
 More information regarding the environment in which I run these notebooks can
 be found in the introduction to the
@@ -13,7 +13,7 @@ Have a look for more information regarding the relevant files.
 
 ### IPython Notebooks
 
-#### For <http://werthmuller.org/blog>
+#### For [werthmuller.org/blog](http://werthmuller.org/blog)
 
 - adashof.py: Contains functions used in some of the notebooks below.
 - [RSS.ipynb](http://werthmuller.org/blog): RSS symbol.
@@ -27,7 +27,7 @@ Have a look for more information regarding the relevant files.
 - [Checksize.ipynb](http://werthmuller.org/blog/2014/checksize)
 - [Travel.ipynb](http://werthmuller.org/blog/2015/travelmap) & [travelmaps.ipynb](http://werthmuller.org/blog/2015/travelmap)
 
-#### For <http://mexico.werthmuller.org>
+#### For [mexico.werthmuller.org](http://mexico.werthmuller.org)
 - [MexicoMaps.ipynb](http://mexico.werthmuller.org/besucherreisen)
 - [Weather.ipynb](http://mexico.werthmuller.org/landleute/wetter)
 - [MexicoFavicon.ipynb](http://mexico.werthmuller.org)
