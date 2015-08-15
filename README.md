@@ -13,6 +13,8 @@ Have a look for more information regarding the relevant files.
 
 ### IPython Notebooks
 
+#### For <http://werthmuller.org/blog>
+
 - adashof.py: Contains functions used in some of the notebooks below.
 - SummaryPlots.ipynb : Contains the summary plot for the [blog overview](http://werthmuller.org/blog) page.
 - [Demo.ipynb](http://werthmuller.org/blog/2014/how-built)
@@ -24,14 +26,18 @@ Have a look for more information regarding the relevant files.
 - [Checksize.ipynb](http://werthmuller.org/blog/2014/checksize)
 - [Travel.ipynb](http://werthmuller.org/blog/2015/travelmap) & [travelmaps.ipynb](http://werthmuller.org/blog/2015/travelmap)
 
+#### For <http://mexico.werthmuller.org>
+- [MexicoMaps.ipynb](http://mexico/werthmuller.org/besucherreisen/urique)
+
+#### In neither blog
+
+- CACH.ipynb: Similar to MXCH.ipynb, but with Canada and Switzerland
+- Travel2.ipynb: More travel maps.
+
 ### Matlab files
 
 - [exampleGUI.m](http://werthmuller.org/blog/2014/matlab-gui-example)
 
-### Not in blog
-
-- CACH.ipynb: Similar to MXCH.ipynb, but with Canada and Switzerland
-- Travel2.ipynb: More travel maps.
 
 
 
