@@ -28,15 +28,9 @@ Have a look for more information regarding the relevant files.
 - [Travel.ipynb](http://werthmuller.org/blog/2015/travelmap) & [travelmaps.ipynb](http://werthmuller.org/blog/2015/travelmap)
 
 #### For [mexico.werthmuller.org](http://mexico.werthmuller.org)
-- [MexicoMaps.ipynb](http://mexico.werthmuller.org/besucherreisen)
+- [MexicoMaps.ipynb](http://mexico.werthmuller.org/besucherreisen) (using travelmaps2.py)
 - [Weather.ipynb](http://mexico.werthmuller.org/landleute/wetter)
 - [MexicoFavicon.ipynb](http://mexico.werthmuller.org)
-
-#### In neither blog
-
-- CACH.ipynb: Similar to MXCH.ipynb, but with Canada and Switzerland
-- Travel2.ipynb: More travel maps.
-- FX.ipynb: MXN currency over time.
 
 ### Matlab files
 
