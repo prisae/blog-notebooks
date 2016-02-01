@@ -29,6 +29,7 @@ Have a look for more information regarding the relevant files.
 
 #### For [mexico.werthmuller.org](http://mexico.werthmuller.org)
 - [MexicoMaps.ipynb](http://mexico.werthmuller.org/besucherreisen) (using travelmaps2.py)
+- [MexicoBlog.ipynb](http://mexico.werthmuller.org) (Various blog entries)
 - [Weather.ipynb](http://mexico.werthmuller.org/landleute/wetter)
 - [MexicoFavicon.ipynb](http://mexico.werthmuller.org)
 
