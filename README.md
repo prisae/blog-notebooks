@@ -4,36 +4,41 @@ IPython Notebooks and other code from my blogs.
 
 More information regarding the environment in which I run these notebooks can
 be found in the introduction to the
-[aftershock blog series](http://werthmuller.org/blog/2014/aftershock), and
+[aftershock blog series](https://werthmuller.org/blog/2014/aftershock), and
 in the first blog thereof,
-[a basemap example](http://werthmuller.org/blog/2014/basemap).
+[a basemap example](https://werthmuller.org/blog/2014/basemap).
 
 ## Links to the respective blog entries
 Have a look for more information regarding the relevant files.
 
 ### IPython Notebooks
 
-#### For [werthmuller.org/blog](http://werthmuller.org/blog)
+#### For [werthmuller.org/blog](https://werthmuller.org/blog)
 
 - adashof.py: Contains functions used in some of the notebooks below.
-- [RSS.ipynb](http://werthmuller.org/blog): RSS symbol.
-- [SummaryPlots.ipynb](http://werthmuller.org/blog): Contains the summary plot for the blog overview page.
-- [Demo.ipynb](http://werthmuller.org/blog/2014/how-built)
-- [Basemap.ipynb](http://werthmuller.org/blog/2014/basemap)
-- [MXCH.ipynb](http://werthmuller.org/blog/2014/basemap)
-- [Circle.ipynb](http://werthmuller.org/blog/2014/circle)
-- [MoveSciNot.ipynb](http://werthmuller.org/blog/2014/move-scientific-notation)
-- [Fillgrid.ipynb](http://werthmuller.org/blog/2014/fillgrid)
-- [Checksize.ipynb](http://werthmuller.org/blog/2014/checksize)
-- [Travel.ipynb](http://werthmuller.org/blog/2015/travelmap) & [travelmaps.ipynb](http://werthmuller.org/blog/2015/travelmap)
+- [RSS.ipynb](https://werthmuller.org/blog): RSS symbol.
+- [SummaryPlots.ipynb](https://werthmuller.org/blog): Contains the summary plot for the blog overview page.
+- [Demo.ipynb](https://werthmuller.org/blog/2014/how-built)
+- [Basemap.ipynb](https://werthmuller.org/blog/2014/basemap)
+- [MXCH.ipynb](https://werthmuller.org/blog/2014/basemap)
+- [Circle.ipynb](https://werthmuller.org/blog/2014/circle)
+- [MoveSciNot.ipynb](https://werthmuller.org/blog/2014/move-scientific-notation)
+- [Fillgrid.ipynb](https://werthmuller.org/blog/2014/fillgrid)
+- [Checksize.ipynb](https://werthmuller.org/blog/2014/checksize)
+- [Travel.ipynb](https://werthmuller.org/blog/2015/travelmap) & [travelmaps.ipynb](https://werthmuller.org/blog/2015/travelmap)
 
-#### For [mexico.werthmuller.org](http://mexico.werthmuller.org)
-- [MexicoMaps.ipynb](http://mexico.werthmuller.org/besucherreisen) (using travelmaps2.py)
-- [MexicoBlog.ipynb](http://mexico.werthmuller.org) (Various blog entries)
-- [Weather.ipynb](http://mexico.werthmuller.org/landleute/wetter)
-- [MexicoFavicon.ipynb](http://mexico.werthmuller.org)
+#### For [mexico.werthmuller.org](https://mexico.werthmuller.org)
+- [MX_BarrancasDelCobre.ipynb](https://mexico.werthmuller.org/besucherreisen/barrancasdelcobre)
+- [MX_ComalcalcoUndPalenque.ipynb](https://mexico.werthmuller.org/besucherreisen/comalcalcoundpalenque)
+- [MX_Oaxaca.ipynb](https://mexico.werthmuller.org/besucherreisen/oaxaca)
+- [MX_Landkarten.ipynb](https://mexico.werthmuller.org/landleute/landkarten)
+- MX_MexicoMaps.ipynb: Not yet used.
+- [MX_Sprachenvielfalt.ipynb](https://mexico.werthmuller.org/kulturgeschichte/sprachenvielfalt)
+- [MX_Mezcal.ipynb](https://mexico.werthmuller.org/pflanzengerichte/mezcal)
+- [MX_Weather.ipynb](https://mexico.werthmuller.org/landleute/wetter)
+- [MX_MexicoFavicon.ipynb](https://mexico.werthmuller.org)
 
 ### Matlab files
 
-- [exampleGUI.m](http://werthmuller.org/blog/2014/matlab-gui-example)
+- [exampleGUI.m](https://werthmuller.org/blog/2014/matlab-gui-example)
 
