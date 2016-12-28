@@ -28,6 +28,8 @@ Have a look for more information regarding the relevant files.
 - [Travel.ipynb](https://werthmuller.org/blog/2015/travelmap) & [travelmaps.ipynb](https://werthmuller.org/blog/2015/travelmap)
 
 #### For [mexico.werthmuller.org](https://mexico.werthmuller.org)
+- [MX_S&S_Trip.ipynb](https://mexico.werthmuller.org/besucherreisen/simon)
+- [MX_Ensenada.ipynb](https://mexico.werthmuller.org/besucherreisen/ensenada)
 - [MX_BarrancasDelCobre.ipynb](https://mexico.werthmuller.org/besucherreisen/barrancasdelcobre)
 - [MX_ComalcalcoUndPalenque.ipynb](https://mexico.werthmuller.org/besucherreisen/comalcalcoundpalenque)
 - [MX_Oaxaca.ipynb](https://mexico.werthmuller.org/besucherreisen/oaxaca)
@@ -42,3 +44,7 @@ Have a look for more information regarding the relevant files.
 
 - [exampleGUI.m](https://werthmuller.org/blog/2014/matlab-gui-example)
 
+
+### Others
+- MX_MexicoMaps.ipynb: Draft Maps, not used
+- travelmaps2.ipynb: An updated version of travelmaps.ipynb.
