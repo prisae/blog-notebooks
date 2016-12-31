@@ -34,7 +34,6 @@ Have a look for more information regarding the relevant files.
 - [MX_ComalcalcoUndPalenque.ipynb](https://mexico.werthmuller.org/besucherreisen/comalcalcoundpalenque)
 - [MX_Oaxaca.ipynb](https://mexico.werthmuller.org/besucherreisen/oaxaca)
 - [MX_Landkarten.ipynb](https://mexico.werthmuller.org/landleute/landkarte)
-- MX_MexicoMaps.ipynb: Not yet used.
 - [MX_Sprachenvielfalt.ipynb](https://mexico.werthmuller.org/kulturgeschichte/sprachenvielfalt)
 - [MX_Mezcal.ipynb](https://mexico.werthmuller.org/pflanzengerichte/mezcal)
 - [MX_Weather.ipynb](https://mexico.werthmuller.org/landleute/wetter)
