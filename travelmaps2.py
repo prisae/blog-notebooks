@@ -15,7 +15,6 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.basemap import Basemap
 from matplotlib import rcParams, patheffects
 from matplotlib.collections import LineCollection
-get_ipython().magic('matplotlib inline')
 
 # Disable DecompressionBombWarning
 from PIL import Image
@@ -158,6 +157,7 @@ def cm2in(length, decimals=2):
 
 # In[4]:
 
+
 def country(countries, bmap, fc=None, ec='none', lw=1, alpha=1, adm=0, gadmpath='/home/dtr/Documents/Webpages/blog-notebooks/data/TravelMap/'):
     """Colour <countries> with a <bmap> projection.
     
@@ -203,7 +203,8 @@ def country(countries, bmap, fc=None, ec='none', lw=1, alpha=1, adm=0, gadmpath=
     for country in countries:
     
         # Get shapefile for the country; extract shapes and records
-        r = shapefile.Reader(gadmpath+country+'_adm/'+country+'_adm'+str(adm))
+        r = shapefile.Reader(gadmpath+country+'_adm/'+country+'_adm'+str(adm),
+                             encoding='windows-1252')
         shapes = r.shapes()
         records = r.records()
 
